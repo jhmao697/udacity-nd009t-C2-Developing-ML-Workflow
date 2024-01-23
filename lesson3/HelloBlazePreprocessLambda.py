@@ -5,8 +5,8 @@ import os
 import boto3
 from botocore.exceptions import ClientError
 
-BUCKET_NAME = 'FILL_THIS_IN'
-PREFIX = 'FILL_THIS_IN'
+BUCKET_NAME = 'sagemaker-us-east-1-759895829784'
+PREFIX = 'lambda-exercise'
 
 # Function below unzips the archive to the local directory. 
 
