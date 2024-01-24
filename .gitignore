@@ -1,0 +1,21 @@
+data/
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 2 - Endpoints Solution-checkpoint.ipynb
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 2 - Endpoints-checkpoint.ipynb
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 3 - Batch Transform Solution-checkpoint.ipynb
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 3 - Batch Transform-checkpoint.ipynb
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 4 - Processing Job Solution-checkpoint.ipynb
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 4 - Processing Job-checkpoint.ipynb
+lesson2/.ipynb_checkpoints/Lesson 2, Exercise 5 - Tying it All Together -checkpoint.ipynb
+lesson2/Toys_and_Games_5.json
+lesson2/__MACOSX/
+lesson2/hello_blaze_train
+lesson2/hello_blaze_validation
+lesson2/music_instruments_reviews.txt
+lesson2/reviews_Musical_Instruments_5.json
+lesson3/.ipynb_checkpoints/
+lesson3/__pycache__/
+lesson3/response.json
+lesson4/.ipynb_checkpoints/
+lesson4/train.csv
+lesson4/validation.csv
+project/.ipynb_checkpoints/
