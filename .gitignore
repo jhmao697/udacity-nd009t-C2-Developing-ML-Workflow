@@ -19,3 +19,7 @@ lesson4/.ipynb_checkpoints/
 lesson4/train.csv
 lesson4/validation.csv
 project/.ipynb_checkpoints/
+train
+cifar*
+file.png
+test
