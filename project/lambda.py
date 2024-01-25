@@ -100,6 +100,7 @@ event json:
 }
 '''
 import json
+import ast
 
 
 THRESHOLD = .93
@@ -108,8 +109,10 @@ THRESHOLD = .93
 def lambda_handler(event, context):
     
     # Grab the inferences from the event
-    inferences = event['inferences']    ## TODO: fill in
-    
+
+    inferences = json.loads(event["body"])["inferences"]    ## TODO: fill in
+    inferences=ast.literal_eval(inferences)
+    print(inferences)
     # Check if any values in our inferences are above THRESHOLD
     meets_threshold = 1 if max(inferences)>THRESHOLD else 0    ## TODO: fill in
     
